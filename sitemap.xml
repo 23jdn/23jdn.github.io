@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://23jdn.github.io/categories/</loc>
+    <loc>https://23jdn.github.io/posts/</loc>
+    <lastmod>2022-08-01T16:21:12+08:00</lastmod>
+  </url><url>
+    <loc>https://23jdn.github.io/posts/powershell%E9%87%8D%E5%AE%9A%E5%90%91/</loc>
+    <lastmod>2022-08-01T16:21:12+08:00</lastmod>
   </url><url>
     <loc>https://23jdn.github.io/</loc>
+    <lastmod>2022-08-01T16:21:12+08:00</lastmod>
+  </url><url>
+    <loc>https://23jdn.github.io/categories/</loc>
   </url><url>
     <loc>https://23jdn.github.io/tags/</loc>
   </url>

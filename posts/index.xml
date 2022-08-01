@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>restart</title>
-    <link>https://23jdn.github.io/</link>
-    <description>Recent content on restart</description>
+    <title>Posts on restart</title>
+    <link>https://23jdn.github.io/posts/</link>
+    <description>Recent content in Posts on restart</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Aug 2022 16:21:12 +0800</lastBuildDate><atom:link href="https://23jdn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Aug 2022 16:21:12 +0800</lastBuildDate><atom:link href="https://23jdn.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>powershell写入bat执行出错</title>
       <link>https://23jdn.github.io/posts/powershell%E9%87%8D%E5%AE%9A%E5%90%91/</link>
