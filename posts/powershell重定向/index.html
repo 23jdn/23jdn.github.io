@@ -14,7 +14,8 @@
 通过powershell写入 &ldquo;ipconfig&rdquo; 重定向到1.bat,执行但报错
 一开始以为是powershell某些字符进行了转义,导致执行bat的时候出错,powershell 重定向 和 cmd 下的重定向某些字符会被转义.查看内容并没看见某些字符错误,猜测为隐式转义字符被写入其中,但查看内容并没发现什么问题.
 通过notepad&#43;&#43;打开发现右下角的编码为 &ldquo;UTF-16&rdquo; 猜测可能是 powershell 重定向的编码问题,使用以下命令即可将输出文件的编码改为默认.
-echo &#39;ipconfig&#39; | Out-File -Encoding default test.bat end ">
+echo &#39;ipconfig&#39; | Out-File -Encoding default test.bat 参考: microsoft
+end ">
     <meta name="keywords" content="blog,developer,personal">
 
     <meta name="twitter:card" content="summary"/>
@@ -23,14 +24,16 @@ echo &#39;ipconfig&#39; | Out-File -Encoding default test.bat end ">
 通过powershell写入 &ldquo;ipconfig&rdquo; 重定向到1.bat,执行但报错
 一开始以为是powershell某些字符进行了转义,导致执行bat的时候出错,powershell 重定向 和 cmd 下的重定向某些字符会被转义.查看内容并没看见某些字符错误,猜测为隐式转义字符被写入其中,但查看内容并没发现什么问题.
 通过notepad&#43;&#43;打开发现右下角的编码为 &ldquo;UTF-16&rdquo; 猜测可能是 powershell 重定向的编码问题,使用以下命令即可将输出文件的编码改为默认.
-echo &#39;ipconfig&#39; | Out-File -Encoding default test.bat end "/>
+echo &#39;ipconfig&#39; | Out-File -Encoding default test.bat 参考: microsoft
+end "/>
 
     <meta property="og:title" content="powershell写入bat执行出错" />
 <meta property="og:description" content="由于某些环境问题,通过powershell执行cmd某些命令报错,遂采用powershell写入bat批处理文件执行,但由于powershell的使用较少出现奇怪的问题&hellip;
 通过powershell写入 &ldquo;ipconfig&rdquo; 重定向到1.bat,执行但报错
 一开始以为是powershell某些字符进行了转义,导致执行bat的时候出错,powershell 重定向 和 cmd 下的重定向某些字符会被转义.查看内容并没看见某些字符错误,猜测为隐式转义字符被写入其中,但查看内容并没发现什么问题.
 通过notepad&#43;&#43;打开发现右下角的编码为 &ldquo;UTF-16&rdquo; 猜测可能是 powershell 重定向的编码问题,使用以下命令即可将输出文件的编码改为默认.
-echo &#39;ipconfig&#39; | Out-File -Encoding default test.bat end " />
+echo &#39;ipconfig&#39; | Out-File -Encoding default test.bat 参考: microsoft
+end " />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://23jdn.github.io/posts/powershell%E9%87%8D%E5%AE%9A%E5%90%91/" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2022-08-01T16:21:12+08:00" />
@@ -165,7 +168,9 @@ echo &#39;ipconfig&#39; | Out-File -Encoding default test.bat end " />
 <p><img src="/images/powershell%E5%86%99%E5%85%A5bat%E6%89%A7%E8%A1%8C%E5%87%BA%E9%94%99/powershell2.png" alt=""></p>
 <p>通过notepad++打开发现右下角的编码为 &ldquo;UTF-16&rdquo; 猜测可能是 powershell 重定向的编码问题,使用以下命令即可将输出文件的编码改为默认.</p>
 <div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-fallback" data-lang="fallback"><span style="display:flex;"><span>echo &#39;ipconfig&#39; | Out-File -Encoding default test.bat
-</span></span></code></pre></div><h2 id="end">
+</span></span></code></pre></div><hr>
+<p>参考: <a href="https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/out-file?view=powershell-7.2">microsoft</a></p>
+<h2 id="end">
   end
   <a class="heading-link" href="#end">
     <i class="fa fa-link" aria-hidden="true"></i>

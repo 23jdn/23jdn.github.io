@@ -17,7 +17,8 @@
 通过powershell写入 &amp;ldquo;ipconfig&amp;rdquo; 重定向到1.bat,执行但报错
 一开始以为是powershell某些字符进行了转义,导致执行bat的时候出错,powershell 重定向 和 cmd 下的重定向某些字符会被转义.查看内容并没看见某些字符错误,猜测为隐式转义字符被写入其中,但查看内容并没发现什么问题.
 通过notepad++打开发现右下角的编码为 &amp;ldquo;UTF-16&amp;rdquo; 猜测可能是 powershell 重定向的编码问题,使用以下命令即可将输出文件的编码改为默认.
-echo &amp;#39;ipconfig&amp;#39; | Out-File -Encoding default test.bat end </description>
+echo &amp;#39;ipconfig&amp;#39; | Out-File -Encoding default test.bat 参考: microsoft
+end </description>
     </item>
     
   </channel>
