@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>restart</title>
-    <link>https://23jdn.github.io/</link>
-    <description>Recent content on restart</description>
+    <title>Talkings on restart</title>
+    <link>https://23jdn.github.io/talking/</link>
+    <description>Recent content in Talkings on restart</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Aug 2022 12:05:39 +0800</lastBuildDate><atom:link href="https://23jdn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Aug 2022 12:05:39 +0800</lastBuildDate><atom:link href="https://23jdn.github.io/talking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2022_8_4</title>
       <link>https://23jdn.github.io/talking/2022_8_4/</link>
@@ -16,20 +16,6 @@
       <description>有时喜欢看、听,经常幻想可以体验别人的一生而&amp;quot;看&amp;quot;为何如此,内心地慢慢觉得这个世界 社会 人是黑暗的,我觉得每个人都有内心黑暗的一面而不暴露出来.时常电影里的环节看完后并不能对自己有着深刻的印象,但总想着在里面找到一些说不出来的东西.互联网的环境可以让人看见许多东西,但无法与自己身边所发生的作为比较,电视剧、电影等等的情节在现在来看还算是保守了的.俗言俗语大道理那么多口中说起是那么简单,但经历起来却像是身在局中无法看清本质.今天突然想起一个人,想通过网络查看其踪迹，只能用牛逼概括目前所看见的但我知道远远不这么简单。总而总之 还是身边发生的事情能让人深刻记忆.不要只看见这个社会的黑暗 你所看到的只是冰山一角,黑暗可能只看见一点,但不要让黑暗完全覆盖了这下面还有 &amp;ldquo;人&amp;rdquo;! 觉得只有先不把自己当&amp;quot;人&amp;quot; 有时才能看见自己想看的。永远不要把自己当&amp;quot;人&amp;quot;,多看多听.
 你真牛逼
 End，2022.08.04 头脑一热所记,说的个半清不楚 但我想将这些所记录,而不是像看完电影一样,久而久之 那种感觉就不在了.</description>
-    </item>
-    
-    <item>
-      <title>powershell写入bat执行出错</title>
-      <link>https://23jdn.github.io/posts/powershell%E9%87%8D%E5%AE%9A%E5%90%91/</link>
-      <pubDate>Mon, 01 Aug 2022 16:21:12 +0800</pubDate>
-      
-      <guid>https://23jdn.github.io/posts/powershell%E9%87%8D%E5%AE%9A%E5%90%91/</guid>
-      <description>由于某些环境问题,通过powershell执行cmd某些命令报错,遂采用powershell写入bat批处理文件执行,但由于powershell的使用较少出现奇怪的问题&amp;hellip;
-通过powershell写入 &amp;ldquo;ipconfig&amp;rdquo; 重定向到1.bat,执行但报错
-一开始以为是powershell某些字符进行了转义,导致执行bat的时候出错,powershell 重定向 和 cmd 下的重定向某些字符会被转义.查看内容并没看见某些字符错误,猜测为隐式转义字符被写入其中,但查看内容并没发现什么问题.
-通过notepad++打开发现右下角的编码为 &amp;ldquo;UTF-16&amp;rdquo; 猜测可能是 powershell 重定向的编码问题,使用以下命令即可将输出文件的编码改为默认.
-echo &amp;#39;ipconfig&amp;#39; | Out-File -Encoding default test.bat 参考: microsoft
-end </description>
     </item>
     
   </channel>
