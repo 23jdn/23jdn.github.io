@@ -6,7 +6,19 @@
     <description>Recent content on restart</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Dec 2022 16:08:31 +0800</lastBuildDate><atom:link href="https://23jdn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Dec 2022 10:53:46 +0800</lastBuildDate><atom:link href="https://23jdn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>web渗透浅谈</title>
+      <link>https://23jdn.github.io/posts/onlyweb/</link>
+      <pubDate>Tue, 13 Dec 2022 10:53:46 +0800</pubDate>
+      
+      <guid>https://23jdn.github.io/posts/onlyweb/</guid>
+      <description>前言 这几天突然发现自己web方向越来越水,搞着搞着自己都蒙逼不知道怎么搞了,遂记录一下自己认为的流程以及目前的一些看法.不管是搞什么，一开始你选的目标你就要有一颗搞进去的心，没这个心会发现搞一下这搞一下那就不想搞下去了，静不下心来。有搞进去的心，那怕这个目标现在搞不进去,也有爆0day的那一天,在不然用下三滥的手段也能进去。
+信息搜集 搞web还是内网,都是从信息搜集开始,甚至可以说渗透的本质就是信息搜集，根据以有的信息寻找突破点，一开始的信息搜集就显的额外重要。 信息搜集主打关联性，一环套一环，目前搜集的信息是为了更好的搜集其他的信息，不太想细化到哪些哪些，从宏观的角度看信息搜集。
+信息搜集可以是个广泛的行为，也可以划分出步骤依次执行。信息搜集是双方的第一道交锋，我方搜集信息为下一步操作做准备，对方尽量的掩盖自己的信息并增加对方收集信息的难度。学好信息搜集除了有耐心和细心还要根据目标环境的情况做应对搜集到更多的信息。
+待填坑。</description>
+    </item>
+    
     <item>
       <title>bypass av</title>
       <link>https://23jdn.github.io/posts/bypass_av_xmind/</link>
