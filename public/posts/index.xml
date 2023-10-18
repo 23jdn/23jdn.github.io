@@ -6,14 +6,14 @@
     <description>Recent content in Posts on 23jdn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Oct 2023 00:58:31 +0800</lastBuildDate><atom:link href="https://23jdn.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Oct 2023 01:11:32 +0800</lastBuildDate><atom:link href="https://23jdn.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>https://23jdn.github.io/posts/test/</link>
-      <pubDate>Thu, 19 Oct 2023 00:58:31 +0800</pubDate>
+      <title>Test1</title>
+      <link>https://23jdn.github.io/posts/test1/</link>
+      <pubDate>Thu, 19 Oct 2023 01:11:32 +0800</pubDate>
       
-      <guid>https://23jdn.github.io/posts/test/</guid>
-      <description>is test code </description>
+      <guid>https://23jdn.github.io/posts/test1/</guid>
+      <description>import test for r in range(10): print(rr) </description>
     </item>
     
   </channel>

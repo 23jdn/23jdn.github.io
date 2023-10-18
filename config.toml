@@ -3,7 +3,7 @@ title = "23jdn"
 languageCode = 'en'
 defaultcontentlanguage = "en"
 theme = "hugo-coder"
-pygmentsstyle = "colorful"
+pygmentsStyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
