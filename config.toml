@@ -6,7 +6,7 @@ theme = "hugo-coder"
 pygmentsStyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
-
+publishDir = "docs"
 [params]
   author = "23jdn"
   description = ""
