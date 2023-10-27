@@ -1,0 +1,42 @@
+baseURL = 'https://23jdn.github.io/'
+title = "23jdn"
+languageCode = 'en'
+defaultcontentlanguage = "en"
+theme = "hugo-coder"
+pygmentsStyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+publishDir = "docs"
+[params]
+  author = "23jdn"
+  description = ""
+  keywords = ""
+  avatarurl = "images/blog_img/img.png"
+  colorScheme="light"
+
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/23jdn/"
+
+[[params.social]]
+  name = "Email"
+  icon = "fa fa-envelope-o fa-4x"
+  weight = 2
+  url = "mailto:23jdn@proton.me"
+
+
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "posts/"
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about/"
+
+[[menu.main]]
+  name = "talking"
+  weight = 3
+  url = "talking/"
