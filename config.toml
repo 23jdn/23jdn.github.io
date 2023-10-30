@@ -10,6 +10,8 @@ theme = "LoveIt"
 # 网站标题
 title = "23jdn's blog"
 
+publishDir = "docs"
+
 # determines default content language ["en", "zh-cn", "fr", "pl", ...]
 # 设置默认的语言 ["en", "zh-cn", "fr", "pl", ...]
 defaultContentLanguage = "zh-cn"

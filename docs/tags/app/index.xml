@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>app - 标签 - 23jdn&#39;s blog</title>
+        <link>https://23jdn.github.io/tags/app/</link>
+        <description>app - 标签 - 23jdn&#39;s blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>CN</language><managingEditor>23jdn@proton.me (23jdn)</managingEditor>
+            <webMaster>23jdn@proton.me (23jdn)</webMaster><lastBuildDate>Mon, 30 Oct 2023 17:46:53 &#43;0800</lastBuildDate><atom:link href="https://23jdn.github.io/tags/app/" rel="self" type="application/rss+xml" /><item>
+    <title>app抓包</title>
+    <link>https://23jdn.github.io/app%E6%8A%93%E5%8C%85/</link>
+    <pubDate>Mon, 30 Oct 2023 17:46:53 &#43;0800</pubDate>
+    <author>23jdn</author>
+    <guid>https://23jdn.github.io/app%E6%8A%93%E5%8C%85/</guid>
+    <description><![CDATA[安装系统证书配合青花瓷采用模拟器挂载vpn方式进行抓包]]></description>
+</item>
+</channel>
+</rss>
