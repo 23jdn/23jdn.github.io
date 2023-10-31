@@ -1,7 +1,7 @@
 ---
 title: "app抓包"
 date: 2023-10-30T17:46:53+08:00
-draft: true
+draft: false
 tags: ["app"]
 categories: ["环境搭建"]
 description: "安装系统证书配合青花瓷采用模拟器挂载vpn方式进行抓包"

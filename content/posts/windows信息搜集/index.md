@@ -1,7 +1,7 @@
 ---
 title: "Windows信息搜集"
 date: 2023-10-30T18:36:52+08:00
-draft: true
+draft: false
 tags: ["windows"]
 categories: ["Note"]
 description: "windows note"
