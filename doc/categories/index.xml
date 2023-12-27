@@ -1,0 +1,32 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - 分类 - 23jdn&#39;s blog</title>
+        <link>https://23jdn.github.io/categories/</link>
+        <description>Categories - 分类 - 23jdn&#39;s blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>CN</language><managingEditor>23jdn@proton.me (23jdn)</managingEditor>
+            <webMaster>23jdn@proton.me (23jdn)</webMaster><lastBuildDate>Wed, 27 Dec 2023 16:40:53 &#43;0800</lastBuildDate><atom:link href="https://23jdn.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>权限维持</title>
+    <link>https://23jdn.github.io/categories/%E6%9D%83%E9%99%90%E7%BB%B4%E6%8C%81/</link>
+    <pubDate>Wed, 27 Dec 2023 16:40:53 &#43;0800</pubDate>
+    <author>23jdn</author>
+    <guid>https://23jdn.github.io/categories/%E6%9D%83%E9%99%90%E7%BB%B4%E6%8C%81/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Note</title>
+    <link>https://23jdn.github.io/categories/note/</link>
+    <pubDate>Mon, 30 Oct 2023 18:36:52 &#43;0800</pubDate>
+    <author>23jdn</author>
+    <guid>https://23jdn.github.io/categories/note/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>环境搭建</title>
+    <link>https://23jdn.github.io/categories/%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</link>
+    <pubDate>Mon, 30 Oct 2023 17:46:53 &#43;0800</pubDate>
+    <author>23jdn</author>
+    <guid>https://23jdn.github.io/categories/%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

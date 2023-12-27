@@ -1,0 +1,42 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>23jdn&#39;s blog</title>
+        <link>https://23jdn.github.io/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>CN</language><managingEditor>23jdn@proton.me (23jdn)</managingEditor>
+            <webMaster>23jdn@proton.me (23jdn)</webMaster><lastBuildDate>Wed, 27 Dec 2023 16:40:53 &#43;0800</lastBuildDate>
+            <atom:link href="https://23jdn.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Markdown 基本语法</title>
+    <link>https://23jdn.github.io/note-markdown/</link>
+    <pubDate>Thu, 26 Oct 2023 00:00:40 &#43;0800</pubDate>
+    <author>23jdn</author>
+    <guid>https://23jdn.github.io/note-markdown/</guid>
+    <description><![CDATA[<p>这篇文章提供了可以在 Hugo 的文章中使用的基本 Markdown 语法示例.</p>]]></description>
+</item>
+<item>
+    <title>创建自定义服务启动遇到1053错误</title>
+    <link>https://23jdn.github.io/%E5%B8%B8%E8%A7%81%E6%9C%8D%E5%8A%A1%E9%94%99%E8%AF%AF1053/</link>
+    <pubDate>Wed, 27 Dec 2023 16:40:53 &#43;0800</pubDate>
+    <author>23jdn</author>
+    <guid>https://23jdn.github.io/%E5%B8%B8%E8%A7%81%E6%9C%8D%E5%8A%A1%E9%94%99%E8%AF%AF1053/</guid>
+    <description><![CDATA[创建服务程序运行指定程序解决1053错误]]></description>
+</item>
+<item>
+    <title>Windows信息搜集</title>
+    <link>https://23jdn.github.io/windows%E4%BF%A1%E6%81%AF%E6%90%9C%E9%9B%86/</link>
+    <pubDate>Mon, 30 Oct 2023 18:36:52 &#43;0800</pubDate>
+    <author>23jdn</author>
+    <guid>https://23jdn.github.io/windows%E4%BF%A1%E6%81%AF%E6%90%9C%E9%9B%86/</guid>
+    <description><![CDATA[windows note]]></description>
+</item>
+<item>
+    <title>app抓包</title>
+    <link>https://23jdn.github.io/app%E6%8A%93%E5%8C%85/</link>
+    <pubDate>Mon, 30 Oct 2023 17:46:53 &#43;0800</pubDate>
+    <author>23jdn</author>
+    <guid>https://23jdn.github.io/app%E6%8A%93%E5%8C%85/</guid>
+    <description><![CDATA[安装系统证书配合青花瓷采用模拟器挂载vpn方式进行抓包]]></description>
+</item>
+</channel>
+</rss>
