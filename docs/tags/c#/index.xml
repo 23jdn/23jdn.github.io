@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>C# - 标签 - 23jdn&#39;s blog</title>
+        <link>https://23jdn.github.io/tags/c#/</link>
+        <description>C# - 标签 - 23jdn&#39;s blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>CN</language><managingEditor>23jdn@proton.me (23jdn)</managingEditor>
+            <webMaster>23jdn@proton.me (23jdn)</webMaster><lastBuildDate>Wed, 27 Dec 2023 16:40:53 &#43;0800</lastBuildDate><atom:link href="https://23jdn.github.io/tags/c#/" rel="self" type="application/rss+xml" /><item>
+    <title>创建自定义服务启动遇到1053错误</title>
+    <link>https://23jdn.github.io/%E5%B8%B8%E8%A7%81%E6%9C%8D%E5%8A%A1%E9%94%99%E8%AF%AF1053/</link>
+    <pubDate>Wed, 27 Dec 2023 16:40:53 &#43;0800</pubDate>
+    <author>23jdn</author>
+    <guid>https://23jdn.github.io/%E5%B8%B8%E8%A7%81%E6%9C%8D%E5%8A%A1%E9%94%99%E8%AF%AF1053/</guid>
+    <description><![CDATA[创建服务程序运行指定程序解决1053错误]]></description>
+</item>
+</channel>
+</rss>
